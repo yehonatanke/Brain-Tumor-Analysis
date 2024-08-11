@@ -1,0 +1,1058 @@
+{
+  "builder_name": "imagefolder",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "brain-tumor-dataset",
+  "dataset_size": 35705,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/1 no.jpeg": {
+      "num_bytes": 54521,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/10 no.jpg": {
+      "num_bytes": 3848,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/11 no.jpg": {
+      "num_bytes": 3475,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/12 no.jpg": {
+      "num_bytes": 4142,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/13 no.jpg": {
+      "num_bytes": 4570,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/14 no.jpg": {
+      "num_bytes": 6039,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/15 no.jpg": {
+      "num_bytes": 6924,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/17 no.jpg": {
+      "num_bytes": 5400,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/18 no.jpg": {
+      "num_bytes": 5868,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/19 no.jpg": {
+      "num_bytes": 5843,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/2 no.jpeg": {
+      "num_bytes": 79678,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/20 no.jpg": {
+      "num_bytes": 7815,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/21 no.jpg": {
+      "num_bytes": 5816,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/22 no.jpg": {
+      "num_bytes": 7163,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/23 no.jpg": {
+      "num_bytes": 8899,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/24 no.jpg": {
+      "num_bytes": 5882,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/25 no.jpg": {
+      "num_bytes": 7882,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/26 no.jpg": {
+      "num_bytes": 7313,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/27 no.jpg": {
+      "num_bytes": 5400,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/28 no.jpg": {
+      "num_bytes": 6113,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/29 no.jpg": {
+      "num_bytes": 6401,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/3 no.jpg": {
+      "num_bytes": 5931,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/30 no.jpg": {
+      "num_bytes": 9339,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/31 no.jpg": {
+      "num_bytes": 7119,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/32 no.jpg": {
+      "num_bytes": 5961,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/33 no.jpg": {
+      "num_bytes": 5134,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/34 no.jpg": {
+      "num_bytes": 4386,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/35 no.jpg": {
+      "num_bytes": 6021,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/36 no.jpg": {
+      "num_bytes": 5114,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/37 no.jpg": {
+      "num_bytes": 6770,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/38 no.jpg": {
+      "num_bytes": 7371,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/39 no.jpg": {
+      "num_bytes": 7079,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/4 no.jpg": {
+      "num_bytes": 6399,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/40 no.jpg": {
+      "num_bytes": 5758,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/41 no.jpg": {
+      "num_bytes": 5758,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/42 no.jpg": {
+      "num_bytes": 4570,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/43 no.jpg": {
+      "num_bytes": 5795,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/44no.jpg": {
+      "num_bytes": 19242,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/45 no.jpg": {
+      "num_bytes": 24761,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/46 no.jpg": {
+      "num_bytes": 59850,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/47 no.jpg": {
+      "num_bytes": 4437,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/48 no.jpeg": {
+      "num_bytes": 34885,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/49 no.jpg": {
+      "num_bytes": 5188,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/5 no.jpg": {
+      "num_bytes": 6523,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/50 no.jpg": {
+      "num_bytes": 6144,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/6 no.jpg": {
+      "num_bytes": 3681,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/7 no.jpg": {
+      "num_bytes": 76351,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/8 no.jpg": {
+      "num_bytes": 7371,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/9 no.jpg": {
+      "num_bytes": 3848,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N1.JPG": {
+      "num_bytes": 24096,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N11.jpg": {
+      "num_bytes": 31827,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N15.jpg": {
+      "num_bytes": 11424,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N16.jpg": {
+      "num_bytes": 6709,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N17.jpg": {
+      "num_bytes": 32570,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N19.JPG": {
+      "num_bytes": 24645,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N2.JPG": {
+      "num_bytes": 16944,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N20.JPG": {
+      "num_bytes": 17058,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N21.jpg": {
+      "num_bytes": 97655,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N22.JPG": {
+      "num_bytes": 19750,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N26.JPG": {
+      "num_bytes": 18210,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N3.jpg": {
+      "num_bytes": 14544,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N5.jpg": {
+      "num_bytes": 6399,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/N6.jpg": {
+      "num_bytes": 7865,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No11.jpg": {
+      "num_bytes": 82291,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No12.jpg": {
+      "num_bytes": 38913,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No13.jpg": {
+      "num_bytes": 22150,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No14.jpg": {
+      "num_bytes": 15257,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No15.jpg": {
+      "num_bytes": 118796,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No16.jpg": {
+      "num_bytes": 7239,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No17.jpg": {
+      "num_bytes": 118796,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No18.jpg": {
+      "num_bytes": 160131,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No19.jpg": {
+      "num_bytes": 200227,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No20.jpg": {
+      "num_bytes": 28275,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No21.jpg": {
+      "num_bytes": 35358,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/No22.jpg": {
+      "num_bytes": 36733,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 1.jpg": {
+      "num_bytes": 5188,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 10.jpg": {
+      "num_bytes": 43270,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 100.jpg": {
+      "num_bytes": 4257,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 2.jpg": {
+      "num_bytes": 5391,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 3.jpg": {
+      "num_bytes": 6230,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 4.jpg": {
+      "num_bytes": 14544,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 5.jpeg": {
+      "num_bytes": 28425,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 6.jpg": {
+      "num_bytes": 7952,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 7.jpeg": {
+      "num_bytes": 82291,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 8.jpg": {
+      "num_bytes": 26726,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 89.jpg": {
+      "num_bytes": 38395,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 9.png": {
+      "num_bytes": 727906,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 90.jpg": {
+      "num_bytes": 15013,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 91.jpeg": {
+      "num_bytes": 55366,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 92.jpg": {
+      "num_bytes": 5033,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 923.jpg": {
+      "num_bytes": 5169,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 94.jpg": {
+      "num_bytes": 54521,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 95.jpg": {
+      "num_bytes": 40209,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 96.jpg": {
+      "num_bytes": 306492,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 97.jpg": {
+      "num_bytes": 28333,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 98.jpg": {
+      "num_bytes": 157613,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no 99.jpg": {
+      "num_bytes": 41544,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/no/no.jpg": {
+      "num_bytes": 188427,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y1.jpg": {
+      "num_bytes": 5114,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y10.jpg": {
+      "num_bytes": 8531,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y100.JPG": {
+      "num_bytes": 20782,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y101.jpg": {
+      "num_bytes": 55036,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y102.jpg": {
+      "num_bytes": 46412,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y103.jpg": {
+      "num_bytes": 131246,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y104.jpg": {
+      "num_bytes": 98251,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y105.jpg": {
+      "num_bytes": 7197,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y106.jpg": {
+      "num_bytes": 6155,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y107.jpg": {
+      "num_bytes": 87205,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y108.jpg": {
+      "num_bytes": 113843,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y109.JPG": {
+      "num_bytes": 23211,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y11.jpg": {
+      "num_bytes": 19254,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y111.JPG": {
+      "num_bytes": 25806,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y112.JPG": {
+      "num_bytes": 24914,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y113.JPG": {
+      "num_bytes": 19808,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y114.JPG": {
+      "num_bytes": 14170,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y115.JPG": {
+      "num_bytes": 21744,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y116.JPG": {
+      "num_bytes": 19881,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y117.JPG": {
+      "num_bytes": 21727,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y12.jpg": {
+      "num_bytes": 29159,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y120.JPG": {
+      "num_bytes": 15723,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y13.jpg": {
+      "num_bytes": 12655,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y14.jpg": {
+      "num_bytes": 30267,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y146.JPG": {
+      "num_bytes": 24840,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y147.JPG": {
+      "num_bytes": 28150,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y148.JPG": {
+      "num_bytes": 24930,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y15.jpg": {
+      "num_bytes": 17045,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y153.jpg": {
+      "num_bytes": 31056,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y154.jpg": {
+      "num_bytes": 20915,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y155.JPG": {
+      "num_bytes": 26288,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y156.JPG": {
+      "num_bytes": 33093,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y157.JPG": {
+      "num_bytes": 17170,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y158.JPG": {
+      "num_bytes": 21172,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y159.JPG": {
+      "num_bytes": 22534,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y16.JPG": {
+      "num_bytes": 26776,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y160.JPG": {
+      "num_bytes": 21409,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y161.JPG": {
+      "num_bytes": 24113,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y162.jpg": {
+      "num_bytes": 113843,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y163.JPG": {
+      "num_bytes": 20799,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y164.JPG": {
+      "num_bytes": 17907,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y165.JPG": {
+      "num_bytes": 17230,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y166.JPG": {
+      "num_bytes": 20359,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y167.JPG": {
+      "num_bytes": 36912,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y168.jpg": {
+      "num_bytes": 10584,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y169.jpg": {
+      "num_bytes": 12655,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y17.jpg": {
+      "num_bytes": 30267,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y170.JPG": {
+      "num_bytes": 26219,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y18.JPG": {
+      "num_bytes": 20131,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y180.jpg": {
+      "num_bytes": 60334,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y181.jpg": {
+      "num_bytes": 17045,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y182.JPG": {
+      "num_bytes": 18839,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y183.jpg": {
+      "num_bytes": 32581,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y184.JPG": {
+      "num_bytes": 13771,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y185.jpg": {
+      "num_bytes": 21420,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y186.jpg": {
+      "num_bytes": 21727,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y187.jpg": {
+      "num_bytes": 6944,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y188.jpg": {
+      "num_bytes": 71769,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y19.JPG": {
+      "num_bytes": 20570,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y192.JPG": {
+      "num_bytes": 26807,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y193.JPG": {
+      "num_bytes": 22261,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y194.jpg": {
+      "num_bytes": 35607,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y195.JPG": {
+      "num_bytes": 22152,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y2.jpg": {
+      "num_bytes": 12438,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y20.jpg": {
+      "num_bytes": 24612,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y21.jpg": {
+      "num_bytes": 7814,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y22.jpg": {
+      "num_bytes": 15450,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y23.JPG": {
+      "num_bytes": 18177,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y24.jpg": {
+      "num_bytes": 305140,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y242.JPG": {
+      "num_bytes": 21358,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y243.JPG": {
+      "num_bytes": 19378,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y244.JPG": {
+      "num_bytes": 22485,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y245.jpg": {
+      "num_bytes": 5820,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y246.JPG": {
+      "num_bytes": 21223,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y247.JPG": {
+      "num_bytes": 21702,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y248.JPG": {
+      "num_bytes": 26881,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y249.JPG": {
+      "num_bytes": 29341,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y25.jpg": {
+      "num_bytes": 31081,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y250.jpg": {
+      "num_bytes": 6944,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y251.JPG": {
+      "num_bytes": 23024,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y252.jpg": {
+      "num_bytes": 6936,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y253.JPG": {
+      "num_bytes": 19278,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y254.jpg": {
+      "num_bytes": 4844,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y255.JPG": {
+      "num_bytes": 18760,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y256.JPG": {
+      "num_bytes": 21250,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y257.jpg": {
+      "num_bytes": 66344,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y258.JPG": {
+      "num_bytes": 23634,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y259.JPG": {
+      "num_bytes": 18300,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y26.jpg": {
+      "num_bytes": 33156,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y27.jpg": {
+      "num_bytes": 37962,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y28.jpg": {
+      "num_bytes": 40049,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y29.jpg": {
+      "num_bytes": 25935,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y3.jpg": {
+      "num_bytes": 46696,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y30.jpg": {
+      "num_bytes": 15874,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y31.jpg": {
+      "num_bytes": 10429,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y32.jpg": {
+      "num_bytes": 29786,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y33.jpg": {
+      "num_bytes": 87205,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y34.jpg": {
+      "num_bytes": 17045,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y35.jpg": {
+      "num_bytes": 41003,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y36.JPG": {
+      "num_bytes": 16077,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y37.jpg": {
+      "num_bytes": 8531,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y38.jpg": {
+      "num_bytes": 15874,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y39.jpg": {
+      "num_bytes": 13102,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y4.jpg": {
+      "num_bytes": 6427,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y40.JPG": {
+      "num_bytes": 23548,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y41.jpg": {
+      "num_bytes": 233141,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y42.jpg": {
+      "num_bytes": 12047,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y44.JPG": {
+      "num_bytes": 23597,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y45.JPG": {
+      "num_bytes": 21912,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y46.jpg": {
+      "num_bytes": 56750,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y47.JPG": {
+      "num_bytes": 27076,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y49.JPG": {
+      "num_bytes": 20796,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y50.JPG": {
+      "num_bytes": 21761,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y51.jpg": {
+      "num_bytes": 98918,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y52.jpg": {
+      "num_bytes": 61240,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y53.jpg": {
+      "num_bytes": 5011,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y54.jpg": {
+      "num_bytes": 15874,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y55.jpg": {
+      "num_bytes": 43087,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y56.jpg": {
+      "num_bytes": 7633,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y58.JPG": {
+      "num_bytes": 21237,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y59.JPG": {
+      "num_bytes": 17890,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y6.jpg": {
+      "num_bytes": 86579,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y60.jpg": {
+      "num_bytes": 7400,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y61.jpg": {
+      "num_bytes": 65584,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y62.jpg": {
+      "num_bytes": 10429,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y65.JPG": {
+      "num_bytes": 16087,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y66.JPG": {
+      "num_bytes": 19137,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y67.JPG": {
+      "num_bytes": 20222,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y69.jpg": {
+      "num_bytes": 31081,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y7.jpg": {
+      "num_bytes": 26938,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y70.jpg": {
+      "num_bytes": 15874,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y71.JPG": {
+      "num_bytes": 24457,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y73.jpg": {
+      "num_bytes": 56546,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y74.jpg": {
+      "num_bytes": 43087,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y75.JPG": {
+      "num_bytes": 23230,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y76.jpg": {
+      "num_bytes": 19177,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y77.jpg": {
+      "num_bytes": 12927,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y78.jpg": {
+      "num_bytes": 7765,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y79.jpg": {
+      "num_bytes": 20915,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y8.jpg": {
+      "num_bytes": 40930,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y81.jpg": {
+      "num_bytes": 6595,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y82.jpg": {
+      "num_bytes": 5021,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y85.JPG": {
+      "num_bytes": 19921,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y86.JPG": {
+      "num_bytes": 21524,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y89.JPG": {
+      "num_bytes": 18490,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y9.jpg": {
+      "num_bytes": 49388,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y90.jpg": {
+      "num_bytes": 91195,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y91.jpg": {
+      "num_bytes": 170564,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y92.jpg": {
+      "num_bytes": 5191,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y92.png": {
+      "num_bytes": 35637,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y95.jpg": {
+      "num_bytes": 5469,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y96.jpg": {
+      "num_bytes": 81911,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y97.JPG": {
+      "num_bytes": 21443,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y98.JPG": {
+      "num_bytes": 19835,
+      "checksum": null
+    },
+    "hf://datasets/Mahadih534/brain-tumor-dataset@f5fc43d3c09f062dc67b65796e4623081e2351d9/yes/Y99.JPG": {
+      "num_bytes": 25080,
+      "checksum": null
+    }
+  },
+  "download_size": 8672762,
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "label": {
+      "names": [
+        "no",
+        "yes"
+      ],
+      "_type": "ClassLabel"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 8708467,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 35705,
+      "num_examples": 253,
+      "dataset_name": "brain-tumor-dataset"
+    }
+  },
+  "task_templates": [
+    {
+      "task": "image-classification",
+      "label_column": "label"
+    }
+  ],
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
