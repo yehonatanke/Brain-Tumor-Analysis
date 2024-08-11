@@ -154,8 +154,8 @@ The project supports both classification and detection models:
 
 | Sample Index = 0 | Sample Index = 50 | Sample Index = 150 | Sample Index = 200 |
 |-------------------|-------------------|---------------------|---------------------|
-| ![Classification 0](output_images/model_analysis/object_classification/image_0.png) | ![Classification 50](output_images/model_analysis/object_classification/image_50.png) | ![Classification 150](output_images/model_analysis/object_classification/image_150.png) | ![Classification 200](output_images/model_analysis/object_classification/image_200.png) |
-| ![Detection 0](output_images/model_analysis/object_detection/image_0.png) | ![Detection 50](output_images/model_analysis/object_detection/image_50.png) | ![Detection 150](output_images/model_analysis/object_detection/image_150.png) | ![Detection 200](output_images/model_analysis/object_detection/image_200.png) |
+| ![Classification 0](Brain%20Tumor%20Analysis/output_images/model_analysis/object_classification/image_0.png) | ![Classification 50](Brain%20Tumor%20Analysis/output_images/model_analysis/object_classification/image_50.png) | ![Classification 150](Brain%20Tumor%20Analysis/output_images/model_analysis/object_classification/image_150.png) | ![Classification 200](Brain%20Tumor%20Analysis/output_images/model_analysis/object_classification/image_200.png) |
+| ![Detection 0](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_0.png) | ![Detection 50](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_50.png) | ![Detection 150](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_150.png) | ![Detection 200](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_200.png) |
 
 *Figure 1: Comparison of Classification (top row) and Detection (bottom row) model outputs for different sample indices*
 
@@ -164,9 +164,9 @@ The project supports both classification and detection models:
 
 | Sample Index = 0 (variations) | Sample Index = 50 (variations) | Sample Index = 151 (variations) |
 |-------------------------------|--------------------------------|--------------------------------|
-| ![Detection 0_1](output_images/model_analysis/object_detection/image_0_1.png) | ![Detection 50_1](output_images/model_analysis/object_detection/image_50_1.png) | ![Detection 151](output_images/model_analysis/object_detection/image_151.png) |
-| ![Detection 0_2](output_images/model_analysis/object_detection/image_0_2.png) | ![Detection 50_2](output_images/model_analysis/object_detection/image_50_2.png) | ![Detection 151_1](output_images/model_analysis/object_detection/image_151_1.png) |
-| ![Detection 0_v1](output_images/model_analysis/object_detection/image_0_v1.png) | ![Detection 50_3](output_images/model_analysis/object_detection/image_50_3.png) | ![Detection 151_2](output_images/model_analysis/object_detection/image_151_2.png) |
+| ![Detection 0_1](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_0_1.png) | ![Detection 50_1](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_50_1.png) | ![Detection 151](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_151.png) |
+| ![Detection 0_2](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_0_2.png) | ![Detection 50_2](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_50_2.png) | ![Detection 151_1](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_151_1.png) |
+| ![Detection 0_v1](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_0_v1.png) | ![Detection 50_3](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_50_3.png) | ![Detection 151_2](Brain%20Tumor%20Analysis/output_images/model_analysis/object_detection/image_151_2.png) |
 
 *Figure 2: Additional outputs from the Detection model showing variations in tumor detection and localization*
 
@@ -212,17 +212,17 @@ The `output_images` directory contains visual results from both classification a
 
 ### Non-Tumor Examples
 
-![Non-tumor MRI example](output_images/non_tumor/image_1.png)
-![Non-tumor MRI example](output_images/non_tumor/image_2.png)
-![Non-tumor MRI example](output_images/non_tumor/image_3.png)
+![Non-tumor MRI example](Brain%20Tumor%20Analysis/output_images/non_tumor/image_1.png)
+![Non-tumor MRI example](Brain%20Tumor%20Analysis/output_images/non_tumor/image_2.png)
+![Non-tumor MRI example](Brain%20Tumor%20Analysis/output_images/non_tumor/image_3.png)
 
 *Figure 3: Sample MRI scans classified as non-tumor*
 
 ### Tumor Examples
 
-![Tumor MRI example](output_images/tumor/image_7.png)
-![Tumor MRI example](output_images/tumor/image_4.png)
-![Tumor MRI example](output_images/tumor/image_9.png)
+![Tumor MRI example](Brain%20Tumor%20Analysis/output_images/tumor/image_7.png)
+![Tumor MRI example](Brain%20Tumor%20Analysis/output_images/tumor/image_4.png)
+![Tumor MRI example](Brain%20Tumor%20Analysis/output_images/tumor/image_9.png)
 
 *Figure 4: Sample MRI scans with detected tumors*
 
