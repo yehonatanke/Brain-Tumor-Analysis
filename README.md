@@ -12,34 +12,51 @@
 
 # <p align="center"> Brain Tumor Classification and Detection <br> Using Machine Learning </p>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#features">Features</a></li>
+    <li>
+      <a href="#workflow">Workflow</a>
+      <ul>
+        <li><a href="#workflow-configuration">Workflow Configuration</a></li>
+        <li><a href="#model-selection">Model Selection</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#key-components">Key Components</a>
+      <ul>
+        <li><a href="#data-loading-and-handling">Data Loading and Handling</a></li>
+        <li><a href="#data-analysis-and-exploration">Data Analysis and Exploration</a></li>
+        <li><a href="#image-processing-and-visualization">Image Processing and Visualization</a></li>
+        <li><a href="#model-application">Model Application</a></li>
+        <li><a href="#performance-comparison">Performance Comparison</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#model-comparison-classification-vs-detection">Model Comparison: Classification vs. Detection</a>
+      <ul>
+        <li><a href="#visual-comparison">Visual Comparison</a></li>
+        <li><a href="#additional-detection-model-outputs">Additional Detection Model Outputs</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#results">Results</a>
+      <ul>
+        <li><a href="#non-tumor-examples">Non-Tumor Examples</a></li>
+        <li><a href="#tumor-examples">Tumor Examples</a></li>
+      </ul>
+    </li>
+    <li><a href="#requirements">Requirements</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ol>
+</details>
+
 ## Overview
 
 This project implements advanced machine learning techniques for the detection and classification of brain tumors using medical imaging data. It leverages both object classification and object detection models to provide comprehensive analysis of brain MRI scans.
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Workflow](#workflow)
-   - [Workflow Configuration](#workflow-configuration)
-   - [Model Selection](#model-selection)
-4. [Key Components](#key-components)
-   - [Data Loading and Handling](#data-loading-and-handling)
-   - [Data Analysis and Exploration](#data-analysis-and-exploration)
-   - [Image Processing and Visualization](#image-processing-and-visualization)
-   - [Model Application](#model-application)
-   - [Performance Comparison](#performance-comparison)
-5. [Model Comparison: Classification vs. Detection](#model-comparison-classification-vs-detection)
-   - [Visual Comparison](#visual-comparison)
-   - [Additional Detection Model Outputs](#additional-detection-model-outputs)
-6. [Usage](#usage)
-7. [Results](#results)
-   - [Non-Tumor Examples](#non-tumor-examples)
-   - [Tumor Examples](#tumor-examples)
-8. [Requirements](#requirements)
-9. [Project Structure](#project-structure)
-10. [Conclusion](#conclusion)
-
 
 ## Features
 
