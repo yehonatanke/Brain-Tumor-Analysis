@@ -48,9 +48,6 @@
         <li><a href="#tumor-examples">Tumor Examples</a></li>
       </ul>
     </li>
-    <li><a href="#requirements">Requirements</a></li>
-    <li><a href="#project-structure">Project Structure</a></li>
-    <li><a href="#conclusion">Conclusion</a></li>
   </ol>
 </details>
 
