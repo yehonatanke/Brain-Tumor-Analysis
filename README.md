@@ -243,18 +243,6 @@ The `output_images` directory contains visual results from both classification a
 
 *Figure 4: Sample MRI scans with detected tumors*
 
-
-## Requirements
-
-- Python 3.8+
-- PyTorch
-- Transformers
-- Datasets
-- NumPy
-- Matplotlib
-- Pandas
-- Pillow
-
 ## Project Structure
 
 ```
@@ -278,7 +266,3 @@ The `output_images` directory contains visual results from both classification a
     │   └── util.py
     └── main.py
 ```
-
-## Conclusion
-
-This project demonstrates the application of machine learning in medical imaging analysis, specifically for brain tumor detection. By implementing both classification and detection models, it provides a comprehensive approach to tumor identification, offering medical professionals valuable tools for diagnosis and treatment planning.
