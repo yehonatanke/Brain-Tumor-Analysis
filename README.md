@@ -56,7 +56,7 @@
 
 ## Overview
 
-This project implements advanced machine learning techniques for the detection and classification of brain tumors using medical imaging data. It leverages both object classification and object detection models to provide comprehensive analysis of brain MRI scans.
+This project implements advanced machine learning techniques for the detection and classification of brain tumors using medical imaging data. It uses object classification and object detection models to for brain MRI scans analysis.
 
 ## Features
 
